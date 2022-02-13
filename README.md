@@ -8,7 +8,7 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Yaroslav | Instagram" width="25px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1636363459~hmac=544e339a2161c9c3018f3700350d6493">][instagram]
+[<img align="left" alt="Yaroslav | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png">][instagram]
 [<img align="left" alt="Yaroslav | Telegram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">][telegram]
 <br>
 
