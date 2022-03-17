@@ -7,7 +7,6 @@
 <hr>
 
 ### Languages and Tools:
-<hr>
 <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 <img align="left" alt="Python" width="64px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
 <img align="left" alt="PyQt" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png">
