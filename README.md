@@ -18,7 +18,7 @@
 <img align="left" alt="Python" width="64px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
 <img align="left" alt="PyQt" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png">
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
-<img align="left" alt="HTML" width="25px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
+<img align="left" alt="HTML" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
 <img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/113px-CSS3_logo_and_wordmark.svg.png">
 
 [instagram]: https://www.instagram.com/iamnotcelebrity/
