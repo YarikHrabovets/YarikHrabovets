@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<img align="left" alt="Python" width="25px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
+<img align="left" alt="Python" width="25px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
 <img align="left" alt="PyQt" width="25px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/qt_94938.png">
 <img align="left" alt="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
 <img align="left" alt="HTML" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
