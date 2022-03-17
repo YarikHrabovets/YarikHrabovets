@@ -7,8 +7,6 @@
 - 📖 I'm constantly learning new things 
 - ⚡️I like to write code
 
-<hr>
-
 ### Languages and Tools:
 <hr>
 
