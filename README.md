@@ -22,7 +22,7 @@
 
 ### Streak stats:
 <hr>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets)](https://git.io/streak-stats)
 
 [instagram]: https://www.instagram.com/iamnotcelebrity/
 [telegram]: https://t.me/Yarikgr15
