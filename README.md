@@ -15,16 +15,15 @@
 <img align="left" alt="HTML" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
 <img align="left" alt="CSS" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/113px-CSS3_logo_and_wordmark.svg.png">
 
-<hr>
-
 ### Contact with me:
 
+<hr>
 [<img align="left" alt="Yaroslav | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png">][instagram]
 [<img align="left" alt="Yaroslav | Telegram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">][telegram]
-<hr>
 
 ### Streak stats:
 
+<hr>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets)](https://git.io/streak-stats)
 
 [instagram]: https://www.instagram.com/iamnotcelebrity/
