@@ -14,6 +14,7 @@
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
 <img align="left" alt="HTML" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
 <img align="left" alt="CSS" width="20px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/113px-CSS3_logo_and_wordmark.svg.png">
+
 <hr>
 
 ### Contact with me:
@@ -24,7 +25,7 @@
 
 ### Streak stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets)](https://git.io/streak-stats)
 
 [instagram]: https://www.instagram.com/iamnotcelebrity/
 [telegram]: https://t.me/Yarikgr15
