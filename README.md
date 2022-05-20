@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yaroslav
 
-[![codewars](https://www.codewars.com/users/YarikGrabovets/badges/large)](https://www.codewars.com/users/YarikGrabovets)
+[![codewars](https://www.codewars.com/users/YarikHrabovets/badges/large)](https://www.codewars.com/users/YarikHrabovets)
 
 - 👀 I’m interested in programming and lerning something new
 - 💞️ I like to play games and draw 
@@ -32,7 +32,7 @@
 ### Streak stats:
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikGrabovets&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarikHrabovets&theme=dark)](https://git.io/streak-stats)
 
 [instagram]: https://www.instagram.com/iamnotcelebrity/
 [telegram]: https://t.me/Yarikgr15
