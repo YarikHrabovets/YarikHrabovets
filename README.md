@@ -3,9 +3,9 @@
 [![codewars](https://www.codewars.com/users/YarikHrabovets/badges/large)](https://www.codewars.com/users/YarikHrabovets)
 
 - 👀 I’m interested in programming and lerning something new
-- 💞️ I like to play games and draw 
+- 💞️ I like to read and watch films  
 - 📖 I'm constantly learning new things 
-- ⚡️I like to write code
+- ⚡️ I like to write code
 
 ### Languages and Tools:
 <hr>
@@ -19,7 +19,6 @@
 <br/>
 <br/>
 
-
 ### Contact with me:
 <hr>
 
@@ -27,7 +26,6 @@
 [<img align="left" alt="Yaroslav | Telegram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">][telegram]
 <br/>
 <br/>
-
 
 ### Streak stats:
 <hr>
