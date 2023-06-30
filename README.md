@@ -1,3 +1,5 @@
+<img src="https://github.com/YarikHrabovets/mp3Player/assets/93872617/dc6317a1-e711-4717-8a43-a8a5ba82cf85" alt="my banner"/>
+
 ### Hi there 👋, I'm Yaroslav
 
 [![codewars](https://www.codewars.com/users/YarikHrabovets/badges/large)](https://www.codewars.com/users/YarikHrabovets)
