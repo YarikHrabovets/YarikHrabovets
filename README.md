@@ -1,4 +1,7 @@
-<img src="https://github.com/YarikHrabovets/mp3Player/assets/93872617/dc6317a1-e711-4717-8a43-a8a5ba82cf85" alt="my banner"/>
+[//]:<img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/main-banner.png" alt="my banner"/>
+
+<img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/koneko.gif" alt="my banner" align="center"/>
+
 
 ### Hi there 👋, I'm Yaroslav
 
