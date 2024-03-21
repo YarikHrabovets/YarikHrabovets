@@ -1,6 +1,8 @@
 [//]:<img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/main-banner.png" alt="my banner"/>
 
-<img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/koneko.gif" alt="my banner" align="center"/>
+<p align="center">
+  <img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/koneko.gif" alt="my banner" align="center"/>
+</p>
 
 
 ### Hi there 👋, I'm Yaroslav
