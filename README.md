@@ -1,7 +1,7 @@
 [//]:<img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/main-banner.png" alt="my banner"/>
 
 <p align="center">
-  <img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/koneko.gif" alt="my banner" align="center"/>
+  <img src="https://github.com/YarikHrabovets/YarikHrabovets/blob/main/assets/koneko2.gif" alt="my banner" align="center"/>
 </p>
 
 
