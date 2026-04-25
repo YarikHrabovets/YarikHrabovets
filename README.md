@@ -79,6 +79,11 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="50"/>
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1753779030563" alt="frame motion" height="30" />
+  <img src="https://cdn.brandfetch.io/idEJBv6OZG/w/192/h/192/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1776665249813" alt="daisy ui" height="50" />
+  <img src="https://cdn.brandfetch.io/idKT3N7d7t/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1776660066466" alt="react router" height="20" />
+  <img src="https://cdn.brandfetch.io/idKmYn1Grq/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1769648963142" alt="vite" height="50" />
+  <img src="https://cdn.brandfetch.io/id-vB1EDIk/w/800/h/800/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1732576718383" alt="mobx" height="50" />
 </div>
 
 ---
